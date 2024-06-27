@@ -184,5 +184,6 @@ footer > p{
 }
 #historia{
     color: var(--cor05);
-    font-size: 1.8em;
+    font-size: 1.7em;
+    text-align: left;
 }
