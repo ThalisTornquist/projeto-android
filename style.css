@@ -88,13 +88,13 @@ nav{
     color: #31c772;
     background-color: transparent;
     transition-duration:0.5s; 
-    font-size: 0.9em;
-    margin: 0px 4px;
+    font-size: 1em;
+    margin: 0px 10px;
 }
 .nav:hover{
     color: #003a1c;
     background-color: #31be6e;
-    padding: 5px;
+    padding: 8px;
     border-radius: 5px;
     text-decoration: none;
 }
